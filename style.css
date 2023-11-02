@@ -1,0 +1,62 @@
+.navbar-nav{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+
+.carousel-caption{
+    color: #800080;
+    padding-top: 20%;
+    padding-bottom: 30%;
+    background-size: cover;
+}
+.btn{
+    font-size: 1.5rem;
+    height: 60px;
+    width: 200px;
+}
+
+
+.circle{
+    display: inline-block;
+    background-color: #DC3545;
+    margin: auto;
+    color:white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+
+.circle i{
+   position: relative;
+   top:30px;
+}
+
+.team img{
+    border: 10px solid rgb(201, 194, 194);
+    width: 350px;
+    height: 350px;
+}
+
+
+.sossial{
+    display: inline-block;
+    background-color: #333333;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 40px;
+    
+
+}
+
+
+.contact{
+    background-image: url(./map.jpeg);
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #eee;
+}
